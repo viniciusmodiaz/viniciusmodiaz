@@ -1,4 +1,4 @@
-### Olá, seja Bem-vindo, prazer! Vinicius Moraes Diaz :earth_americas:
+### Seja Bem-Vindo, prazer! Vinicius Moraes Diaz :earth_americas:
 
 Adoro trabalhar com tecnologia e criar soluções. Sou Graduando em Sistemas de Informação pela UniFanor :student:	
 Sou Desenvolvedor Full Stack que adora conhecer novas tecnologias 
