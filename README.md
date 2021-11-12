@@ -2,6 +2,7 @@
 
 Adoro trabalhar com tecnologia e criar soluções. Sou Graduando em Sistemas de Informação pela UniFanor :student:	
 Sou Desenvolvedor Full Stack que adora conhecer novas tecnologias 
+Estou a aberto novas tecnologias
 <!--
 **viniciusmodiaz/viniciusmodiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
