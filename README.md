@@ -1,8 +1,8 @@
 ### Seja Bem-Vindo, prazer! Vinicius Moraes Diaz :earth_americas:
 
-:student:	Adoro trabalhar com tecnologia e criar soluções. Sou Graduando em Sistemas de Informação pela UniFanor    
+:student:	Adoro trabalhar com tecnologia e criar soluções. Sou Graduando em Sistemas de Informação pela UniFanor.  
 :computer: Sou Desenvolvedor Full Stack.  
-:left_speech_bubble:Estou a aberto novas tecnologias
+:left_speech_bubble:Estou a aberto novas tecnologias.
 <h3> Contato </h3>
 <a href = "mailto:viniciusmodiaz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FBBC05?style=for-the-badge&logo=google&logoColor=white " target="_blank">
